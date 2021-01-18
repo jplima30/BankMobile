@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F6A398E6-948C-44C7-AE30-1E2A869BEEAB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82568804-DC8A-4376-919B-834AB9678F1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DesafioAppBank/Scenes/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "signIn()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F85F2DF-8379-4B42-8309-B4975A3EAE14"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DesafioAppBank/Scenes/Login/LoginPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "presentDetails(response:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D53FC9F-87BE-4934-9EF6-28217B83757A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DesafioAppBank/Scenes/Login/LoginPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "presentDetails(response:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC82085C-8154-4723-B1BE-EF98EB1A56D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DesafioAppBank/Scenes/Login/LoginInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "signIn(request:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC82085C-8154-4723-B1BE-EF98EB1A56D1 - 25d84734140ccb98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;DesafioAppBank.User, Swift.Error&gt;) -&gt; () in DesafioAppBank.LoginInteractor.doSomething(request: DesafioAppBank.Login.UserLogin.Request) -&gt; ()"
+                  moduleName = "DesafioAppBank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jplima/Documents/iOS-Dev/TesteiOSv2/DesafioAppBank/DesafioAppBank/Scenes/Login/LoginInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "123">
+               </Location>
+               <Location
+                  uuid = "FC82085C-8154-4723-B1BE-EF98EB1A56D1 - 25d84734140ccb98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;DesafioAppBank.User, Swift.Error&gt;) -&gt; () in DesafioAppBank.LoginInteractor.doSomething(request: DesafioAppBank.Login.UserLogin.Request) -&gt; ()"
+                  moduleName = "DesafioAppBank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jplima/Documents/iOS-Dev/TesteiOSv2/DesafioAppBank/DesafioAppBank/Scenes/Login/LoginInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "151">
+               </Location>
+               <Location
+                  uuid = "FC82085C-8154-4723-B1BE-EF98EB1A56D1 - 25d84734140ccb98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;DesafioAppBank.User, Swift.Error&gt;) -&gt; () in DesafioAppBank.LoginInteractor.doSomething(request: DesafioAppBank.Login.UserLogin.Request) -&gt; ()"
+                  moduleName = "DesafioAppBank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jplima/Documents/iOS-Dev/TesteiOSv2/DesafioAppBank/DesafioAppBank/Scenes/Login/LoginInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "804">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80FF07A6-565D-4162-9856-3C018E706E83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DesafioAppBank/Scenes/Login/LoginWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "signIn(user:password:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DF0CC73-E4B1-4BC0-A521-836979DF81E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DesafioAppBank/Scenes/Login/LoginWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "signIn(user:password:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0DF0CC73-E4B1-4BC0-A521-836979DF81E3 - b0c23d7746037e49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DesafioAppBank.LoginWorker.signIn(user: Swift.String, password: Swift.String, completion: (Swift.Result&lt;DesafioAppBank.User, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DesafioAppBank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jplima/Documents/iOS-Dev/TesteiOSv2/DesafioAppBank/DesafioAppBank/Scenes/Login/LoginWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1731">
+               </Location>
+               <Location
+                  uuid = "0DF0CC73-E4B1-4BC0-A521-836979DF81E3 - c82b6de88f0a21d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DesafioAppBank.LoginWorker.signIn(user: Swift.String, password: Swift.String, completion: (Swift.Result&lt;DesafioAppBank.User, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DesafioAppBank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jplima/Documents/iOS-Dev/TesteiOSv2/DesafioAppBank/DesafioAppBank/Scenes/Login/LoginWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "330">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2C2E060-1D9F-4413-8622-742A86DF3515"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DesafioAppBank/Scenes/Login/LoginInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "LoginDataStore"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB004ACF-065C-4274-B248-B96BE7F5F8D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DesafioAppBank/Scenes/Login/LoginRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "routeToDetails()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F72DC36B-203E-4057-93BB-52A8B7D1EC2E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DesafioAppBank/Scenes/Login/LoginPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
